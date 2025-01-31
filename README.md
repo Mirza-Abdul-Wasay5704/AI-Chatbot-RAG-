@@ -45,28 +45,3 @@ You can install all dependencies using:
 ```bash
 pip install -r requirements.txt
 
-
-Contributing 🤝
-Contributions are welcome! If you'd like to improve ByteBot, follow these steps:
-
-Fork the repository.
-
-Create a new branch:
-
-bash
-Copy
-Edit
-git checkout -b feature-name
-Commit your changes:
-
-bash
-Copy
-Edit
-git commit -m "Add new feature"
-Push to your branch:
-
-bash
-Copy
-Edit
-git push origin feature-name
-Submit a Pull Request for review.
